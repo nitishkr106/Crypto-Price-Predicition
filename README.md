@@ -1,5 +1,7 @@
 # DMA course project - Team 07
 # Cryptocurrency Closing Price Prediction Challenge 
+# College rank : 2nd
+# Global rank : 117
 
 
 ## 1. Problem Statement
